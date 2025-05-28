@@ -1,7 +1,7 @@
 @extends('layout.main')
 
 @section('title')
-    Contact Prem Narayan | Book Name - 
+    Contact Prem Narayan | The Undoing Of Us - 
 @endsection
 
 @section('styles')
@@ -165,7 +165,7 @@
             <div class="fade-in">
                 <h2 class="text-3xl lg:text-4xl font-bold text-primary mb-8">Let's Connect</h2>
                 <p class="text-lg text-slate-600 mb-8 leading-relaxed">
-                    Have questions about "Book Name: " or want to share your feedback? Prem Narayan loves
+                    Have questions about "The Undoing Of Us: " or want to share your feedback? Prem Narayan loves
                     hearing from readers. Feel free to reach out through any of the following methods or use the contact form.
                 </p>
 
@@ -325,12 +325,12 @@
 
                 <div class="faq-item bg-white rounded-xl shadow-lg overflow-hidden">
                     <div class="faq-question flex justify-between items-center p-6 cursor-pointer hover:bg-slate-50 transition-colors">
-                        <span class="text-lg font-semibold text-slate-800">Is "Book Name: " part of a series?</span>
+                        <span class="text-lg font-semibold text-slate-800">Is "The Undoing Of Us: " part of a series?</span>
                         <i class="fas fa-chevron-down text-slate-400"></i>
                     </div>
                     <div class="faq-answer px-6 pb-0">
                         <p class="text-slate-600 leading-relaxed pb-6">
-                            While "Book Name: " was written as a standalone novel, Prem has hinted that some
+                            While "The Undoing Of Us: " was written as a standalone novel, Prem has hinted that some
                             characters might appear in future works. The story is complete in itself with no cliffhangers.
                         </p>
                     </div>
@@ -351,7 +351,7 @@
 
                 <div class="faq-item bg-white rounded-xl shadow-lg overflow-hidden">
                     <div class="faq-question flex justify-between items-center p-6 cursor-pointer hover:bg-slate-50 transition-colors">
-                        <span class="text-lg font-semibold text-slate-800">What inspired the story of "Book Name: "?</span>
+                        <span class="text-lg font-semibold text-slate-800">What inspired the story of "The Undoing Of Us: "?</span>
                         <i class="fas fa-chevron-down text-slate-400"></i>
                     </div>
                     <div class="faq-answer px-6 pb-0">

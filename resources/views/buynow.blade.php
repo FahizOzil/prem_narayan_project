@@ -82,12 +82,12 @@
     <div class="flex flex-col lg:flex-row items-center justify-center gap-12 mb-12 p-8 bg-white rounded-2xl shadow-xl">
         <div class="w-full max-w-sm">
             <div class="book-3d shadow-2xl">
-                <img src="{{ asset('images/cover.jpg') }}" alt="Book Name -  book cover" class="w-full h-auto rounded-lg">
+                <img src="{{ asset('images/cover.jpg') }}" alt="The Undoing Of Us -  book cover" class="w-full h-auto rounded-lg">
             </div>
         </div>
 
         <div class="flex-1 min-w-0 lg:max-w-lg space-y-6">
-            <h2 class="text-3xl sm:text-4xl font-bold text-accent">Book Name: </h2>
+            <h2 class="text-3xl sm:text-4xl font-bold text-accent">The Undoing Of Us: </h2>
             <p class="text-lg text-gray-600 italic">By Prem Narayan</p>
             <p class="text-gray-700 leading-relaxed">
                 A captivating romance novel that breaks the mold with its fast-paced storytelling and unexpected twists.

@@ -1,5 +1,5 @@
 @extends('layout.main')
-@section('title', 'About the Author | Prem Narayan | Book Name - ')
+@section('title', 'About the Author | Prem Narayan | The Undoing Of Us - ')
 
 @section('styles')
 <!-- Tailwind CSS CDN -->
@@ -211,7 +211,7 @@
             <div class="timeline-item relative w-1/2 left-1/2 pl-10 pb-10 opacity-0 transform translate-y-12 transition-all duration-1000">
                 <div class="text-lg font-bold text-blue-700 mb-3">2025</div>
                 <div class="bg-white rounded-xl p-6 shadow-lg">
-                    <h4 class="text-xl font-semibold mb-3 text-gray-800">Book Name: </h4>
+                    <h4 class="text-xl font-semibold mb-3 text-gray-800">The Undoing Of Us: </h4>
                     <p class="text-gray-600 leading-relaxed">Release of reimagined novel with new title, cover, and enhanced content.</p>
                 </div>
             </div>
@@ -244,9 +244,9 @@
         <div class="flex flex-wrap gap-8 justify-center">
             <div class="w-56 text-center transform hover:-translate-y-3 transition-all duration-300">
                 <div class="w-56 h-80 shadow-2xl mb-4 book-3d-effect">
-                    <img src="{{ asset('images/cover.jpg') }}" alt="Book Name:  book cover" class="w-full h-full object-cover rounded">
+                    <img src="{{ asset('images/cover.jpg') }}" alt="The Undoing Of Us:  book cover" class="w-full h-full object-cover rounded">
                 </div>
-                <h4 class="text-lg font-semibold mb-2 text-blue-700">Book Name: </h4>
+                <h4 class="text-lg font-semibold mb-2 text-blue-700">The Undoing Of Us: </h4>
                 <p class="text-gray-100">2025</p>
             </div>
         </div>

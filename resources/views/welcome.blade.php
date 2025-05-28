@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'Book Name -  | Prem Narayan')
+@section('title', 'The Undoing Of Us -  | Prem Narayan')
 
 @section('styles')
     <style>
@@ -63,7 +63,7 @@
 
     <div class="hero-content text-center text-white z-20 px-4 max-w-4xl mx-auto">
         <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 text-shadow-lg">
-            Book Name
+            The Undoing Of Us
         </h1>
         {{-- <h2 class="text-xl md:text-3xl lg:text-4xl font-light mb-6 opacity-90">
 
@@ -84,7 +84,7 @@
             <!-- Book Cover -->
             <div class="book-cover fade-in">
                 <div class="book-3d w-72 h-96 lg:w-80 lg:h-[480px] shadow-2xl rounded-lg overflow-hidden">
-                    <img src="{{ asset('images/cover.jpg') }}" alt="Book Name -  book cover" class="w-full h-full object-cover">
+                    <img src="{{ asset('images/cover.jpg') }}" alt="The Undoing Of Us -  book cover" class="w-full h-full object-cover">
                 </div>
             </div>
 
@@ -94,7 +94,7 @@
                     A Romance That Never Slows Down
                 </h2>
                 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6 leading-relaxed">
-                    Unlike most romance novels with their "down time," <em class="text-primary-600 dark:text-primary-400">Book Name: </em> keeps moving and surprising things happen to the characters at every turn.
+                    Unlike most romance novels with their "down time," <em class="text-primary-600 dark:text-primary-400">The Undoing Of Us: </em> keeps moving and surprising things happen to the characters at every turn.
                 </p>
                 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6 leading-relaxed">
                     Experience a fast-paced romance adventure that blends passion, desire, and unexpected twists in this refreshing take on the genre.

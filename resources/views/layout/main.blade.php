@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Book Name -  | Prem Narayan')</title>
+    <title>@yield('title', 'The Undoing Of Us -  | Prem Narayan')</title>
 
     {{-- favicon icon --}}
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/favicon-16x16.png') }}">
@@ -163,7 +163,7 @@
             <div class="flex items-center justify-between">
                 <a href="{{ route('home') }}"
                     class="text-2xl font-bold gradient-text hover:scale-105 transition-transform duration-300">
-                    Book Name
+                    The Undoing Of Us
                 </a>
 
                 <!-- Mobile menu button -->

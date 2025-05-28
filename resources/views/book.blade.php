@@ -1,7 +1,7 @@
 @extends('layout.main')
 
 @section('title')
-    Book Name -  | Prem Narayan
+    The Undoing Of Us -  | Prem Narayan
 @endsection
 
 @section('styles')
@@ -81,14 +81,14 @@
             <!-- Book Cover -->
             <div class="relative">
                 <div class="book-cover-3d w-80 h-[480px] shadow-2xl shadow-indigo-500/30">
-                    <img src="{{ asset('images/cover.jpg') }}" alt="Book Name -  book cover" class="w-full h-full object-cover rounded-lg">
+                    <img src="{{ asset('images/cover.jpg') }}" alt="The Undoing Of Us -  book cover" class="w-full h-full object-cover rounded-lg">
                 </div>
                 <div class="book-glow absolute inset-0 bg-gradient-to-br from-indigo-500/50 to-violet-500/50 rounded-lg"></div>
             </div>
 
             <!-- Book Info -->
             <div class="max-w-2xl opacity-0 translate-y-8 animate-fadeInUp">
-                <h1 class="text-6xl font-bold mb-3 bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">Book Name</h1>
+                <h1 class="text-6xl font-bold mb-3 bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">The Undoing Of Us</h1>
                 <h2 class="text-3xl font-semibold mb-4 text-violet-700"></h2>
                 <span class="block text-xl italic mb-6 text-gray-700 opacity-90">by Prem Narayan</span>
 
@@ -112,7 +112,7 @@
 
                 <!-- Description -->
                 <div class="text-lg leading-relaxed mb-8 space-y-4 text-amber-500">
-                    <p>Unlike traditional romance novels with their "down time," <span class="font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">Book Name: </span> keeps moving at a thrilling pace. Experience a romance adventure where surprising things happen to characters at every turn.</p>
+                    <p>Unlike traditional romance novels with their "down time," <span class="font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">The Undoing Of Us: </span> keeps moving at a thrilling pace. Experience a romance adventure where surprising things happen to characters at every turn.</p>
                     <p class="text-gray-700">This story takes you on an emotional journey from attraction to conflict to heartfelt reconciliation, all without ever slowing down.</p>
                 </div>
 
